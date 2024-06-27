@@ -10,4 +10,5 @@ public class BoredApiTest extends BoredApiSetup{
     public void BrandTest() {
         sortActivityList(getMockActivities());
     }
+
 }
