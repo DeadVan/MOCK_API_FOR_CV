@@ -1,0 +1,5 @@
+{
+  "base_url": "https://bored-api.appbrewery.com",
+  "mock_base_url": "http://localhost:8080",
+  "activity_endpoint" : "/random"
+}
